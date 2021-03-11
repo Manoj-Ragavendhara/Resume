@@ -1,0 +1,32 @@
+#top{
+    
+    background-color:#00ffb3;
+    color: black;
+}
+#middle{
+    background-color:#00ffb3;
+    color: black;
+}
+#bottom{
+    color:white;
+}
+#heading{
+    text-align: center;
+    color: white;
+}
+#bio{
+    color: white;
+}
+.center{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tt{
+    margin-left: auto;
+    margin-right: auto;
+}
+#new{
+    background-color:#00ffb3;
+    text-align: center;
+}
